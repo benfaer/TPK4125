@@ -21,9 +21,9 @@ The IMU continuously measures the robot’s tilt angle. The PID controller calcu
 
 ## Requirements
 - Arduino-compatible microcontroller  
-- IMU (e.g., MPU6050)  
+- IMU 
 - Motor driver  
-- DC motors (encoders optional)
+- DC motors 
 
 ## Getting Started
 1. Install required Arduino libraries (e.g., MPU6050/IMU libraries).  
